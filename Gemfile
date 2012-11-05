@@ -44,3 +44,5 @@ gem "ruby_parser", ">= 2.3.1", :group => :development
 gem "rspec-rails", ">= 2.11.4", :group => [:development, :test]
 gem "email_spec", ">= 1.2.1", :group => :test
 gem "bootstrap-sass", ">= 2.1.0.1"
+gem "quiet_assets", ">= 1.0.1", :group => :development
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
